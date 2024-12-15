@@ -11,15 +11,17 @@ How does colonial engagement distance and British formational tactics impact the
 The hypothesis posits that British reliance on close-order formations led to higher British casualties and lower colonist casualties. Additionally, shorter engagement distances by the colonists increased British casualties while also leading to higher colonial casualties.
 
 ### Variables
-#### Independent Variables:
-  Colonial engagement distance
-  British formational tactics (e.g., Line, Column, Square formations)
-  Dimensions of British troop formations (rows/columns)
-#### Dependent Variables:
-  British casualties
-  Colonial casualties
-  Methodology
 
+- **Independent Variables:**
+  - Colonial engagement distance
+  - British formational tactics (e.g., Line, Column, Square formations)
+  - Dimensions of British troop formations (rows/columns)
+
+- **Dependent Variables:**
+  - British casualties
+  - Colonial casualties
+
+### Methodology
   
 The simulation models both the British and Colonial forces, focusing on the impact of different British troop formations (such as lines, columns, and squares) and the engagement distances set by the Colonial forces. By manipulating the variables, this simulation allows for an analysis of how formation types and engagement distance influence the outcome of the battle in terms of casualties. The results of this simulation aim to shed light on the effectiveness of British tactics and the role of colonial forces in influencing the course of the battle.
 
