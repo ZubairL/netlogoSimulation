@@ -1,4 +1,4 @@
-# Group 36's NetLogo Simulation - Battle of Bunker Hill
+# NetLogo Simulation - Battle of Bunker Hill
 
 ## How to Run
 Running our NetLogo Simulation is very simple. We are utilizing just one file: group36_battleofbunkerhill.nlogo. You can open this file directly in NetLogo.
