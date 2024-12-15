@@ -6,5 +6,3 @@ Running our NetLogo Simulation is very simple. We are utilizing just one file: g
 ## Adjustable Values
 By default, the adjustable values will default to their historical values. The adjustable values in our model are distance-to-shoot and British-TroopColumns. distance-to-shoot is the range that colonists can shoot at. British-TroopColumns is the number of columns used in the British line formation.
 
-## Questions
-If you have any questions about our model, please let us know. Thank you.
